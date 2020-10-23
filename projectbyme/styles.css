@@ -1,0 +1,37 @@
+#first{
+
+}
+#second{
+
+}
+#third{
+
+}
+#fourth{
+
+}
+#fifth{
+
+}
+
+
+
+.bgimage{
+	background-image: url("C:/shatakshi/bootstrap1/images/home-bg.jpg");
+	background-size: cover;
+}
+.icon{
+	background-color: white;
+	margin: 20px;
+	padding: 25px;
+}
+.icon:hover{
+	background-color: yellow;
+}
+.lists{
+	margin-top: 300px;position: fixed;padding-left: 1570px;
+}
+.get_started:hover{
+	background-color: #d7385e;
+	border-width: 0px;
+}
